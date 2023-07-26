@@ -1,0 +1,9 @@
+//export const LOGO_URL="https://www.logodesign.net/logo/smoking-burger-with-lettuce-3624ld.png";
+
+export const LOGO_URL="https://w7.pngwing.com/pngs/894/279/png-transparent-online-food-ordering-food-delivery-grubhub-others-food-service-logo-thumbnail.png";
+
+export const CDN_URL="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/";
+
+export const MENU_API ="https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=18.5073514&lng=73.8076543&restaurantId="
+
+export const MENU_API_ALL ="https://www.swiggy.com/dapi/restaurants/list/v5?lat=18.5073514&lng=73.8076543&page_type=DESKTOP_WEB_LISTING";
